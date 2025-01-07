@@ -31,7 +31,6 @@ jobs:
         env:
           # To report GitHub Actions status checks
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # To disable the verification and pass true to check-lint
           VALIDATE_MARKDOWN: true
           VALIDATE_YAML: true
-          VALIDATE_CHECKOV: true
+          VALIDATE_JSON: true
