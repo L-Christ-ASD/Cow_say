@@ -2,6 +2,6 @@
 first_workflow_github_action
 
 
-**ACTION CHEKOUT**: 
+**CHEKOUT Action in steps**: 
 
-Permet de recuperer tout les fichiers de versionning git!
+For pulling all paths of git's versionning
